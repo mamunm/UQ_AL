@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamu867/PNNL_Mac/PNNL_Code_Base/UQ_AL/notebooks/preliminary_pycaret_analysis/mlruns/1/9d63a74b47394bb2a4e7db9edbe67c64/artifacts
+end_time: 1619743902647
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9d63a74b47394bb2a4e7db9edbe67c64
+run_uuid: 9d63a74b47394bb2a4e7db9edbe67c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619743902567
+status: 3
+tags: []
+user_id: mamu867

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamu867/PNNL_Mac/PNNL_Code_Base/UQ_AL/models/mlruns/1/f5e9652b305343558ef157b4af2f9882/artifacts
+end_time: 1619742364926
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f5e9652b305343558ef157b4af2f9882
+run_uuid: f5e9652b305343558ef157b4af2f9882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619742364746
+status: 3
+tags: []
+user_id: mamu867

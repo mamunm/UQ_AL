@@ -1,0 +1,31 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.3
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: a9aa6039331449338ebfa6c339d5d205
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "Fe", "type": "double"}, {"name": "C", "type": "double"}, {"name":
+    "Cr", "type": "double"}, {"name": "Mn", "type": "double"}, {"name": "Si", "type":
+    "double"}, {"name": "Ni", "type": "double"}, {"name": "Co", "type": "double"},
+    {"name": "Mo", "type": "double"}, {"name": "W", "type": "double"}, {"name": "Nb",
+    "type": "double"}, {"name": "Al", "type": "double"}, {"name": "P", "type": "double"},
+    {"name": "Cu", "type": "double"}, {"name": "Ti", "type": "double"}, {"name": "V",
+    "type": "double"}, {"name": "B", "type": "double"}, {"name": "N", "type": "double"},
+    {"name": "S", "type": "double"}, {"name": "Zr", "type": "double"}, {"name": "Normal",
+    "type": "double"}, {"name": "Temper1", "type": "double"}, {"name": "AGS No.",
+    "type": "double"}, {"name": "CT_Temp", "type": "double"}, {"name": "CT_EL", "type":
+    "double"}, {"name": "CT_RA", "type": "double"}, {"name": "log_CT_CS", "type":
+    "double"}, {"name": "log_CT_MCR", "type": "double"}]'
+  outputs: null
+utc_time_created: '2021-04-30 01:03:08.869789'
